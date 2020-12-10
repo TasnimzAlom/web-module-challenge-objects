@@ -15,7 +15,7 @@ The function should:
 
 function createMenuItem(foodName,foodPrice,foodType){
     return{name: foodName, Price:foodPrice, category:foodType};
-    /*Your code here*/
+    "hello"
 }
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 1b: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
